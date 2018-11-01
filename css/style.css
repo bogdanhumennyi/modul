@@ -1,0 +1,51 @@
+.odin {
+	width: 140px;
+	height: 140px;
+	position: relative;
+	background: red;
+}
+.dva {
+	width: 140px;
+	height: 140px;
+	position: relative;
+	background: yellow;
+	left: 110px;
+	bottom: 25px;
+}
+.tri {
+width: 140px;
+	height: 140px;
+	position: relative;
+	background: green;
+	left: 220px;
+	bottom: 50px;	
+}
+.kub {
+	background: black;
+	width: 430px;
+	height: 140px;
+	display: inline-block;	
+}
+.kub1 {
+	width: 140px;
+	height: 140px;
+	background: red;
+	display: inline-block;
+	
+	
+}
+.kub2{
+	margin: 0;
+	width: 140px;
+	height: 140px;
+	background: yellow;
+	display: inline-block;
+	
+
+}
+.kub3{
+	width: 140px;
+	height: 140px;
+	background: green;
+	display: inline-block;	
+}
